@@ -136,7 +136,8 @@ For those unfamiliar with summation notation, the equation above may seem daunti
 
 EX:           μ = (2+3+4+5+6+7+8+8+9+10) / 10 = 6.2    
 σ = √[(2 - 6.2)2 + (3 - 6.2)2 + ... + (10 - 6.2)2)]/10
-σ =  7.97496
+σ =  0.7975
+
 
 
 
